@@ -1,4 +1,5 @@
-*.idea
 **/*.pdf
+*.idea
 *.ini
 .DS_Store
+.ipynb_checkpoints
