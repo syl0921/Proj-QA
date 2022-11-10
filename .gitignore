@@ -1,0 +1,4 @@
+*.idea
+**/*.pdf
+*.ini
+.DS_Store
